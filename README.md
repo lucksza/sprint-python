@@ -1,4 +1,5 @@
-Descrição do Projeto
+Descrição do Projeto:
+
 Este projeto é uma aplicação interativa desenvolvida em Python que desafia o usuário a testar seus conhecimentos sobre pilotos e montadoras da Fórmula-E. A interface gráfica foi criada usando a biblioteca tkinter, que proporciona uma interação amigável e dinâmica. Os dados dos campeões da Fórmula-E são carregados a partir de um arquivo CSV contendo informações como temporada, piloto campeão, país de origem, montadora, entre outros.
 
 O jogo oferece diferentes tipos de desafios, como a associação de pilotos com seus respectivos países ou montadoras. No final de cada desafio, o usuário pode ver se suas respostas estavam corretas ou não, tornando a experiência educativa e divertida.
