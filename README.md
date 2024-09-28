@@ -40,6 +40,7 @@ Carro do Piloto Campeão: Modelo do carro utilizado pelo piloto campeão.
 Montadora do Piloto Campeão: Montadora para a qual o piloto campeão correu.
 Título de Construtoras: Construtora que venceu o campeonato de construtores naquela temporada.
 
+![diagrama](https://github.com/user-attachments/assets/8155c9a0-6416-400d-8fd3-38d70a193919)
 
 
 
